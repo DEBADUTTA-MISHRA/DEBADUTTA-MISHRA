@@ -21,6 +21,6 @@ I'm currently focusing on enhancing my skills in full-stack development with pro
 
 ### 📫 How to Reach Me
 - **Email**: [debaduttamishra.dev@gmail.com](mailto:debaduttamishra.dev@gmail.com)
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/debadutta-mishra-10258824b/))
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/debadutta-mishra-10258824b/])
 
 Feel free to check out my repositories and contribute if you're interested!
