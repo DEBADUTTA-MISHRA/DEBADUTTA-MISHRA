@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Debadutta Mishra!
 
-![Profile Picture](https://i3.wp.com/e1.pxfuel.com/desktop-wallpaper/451/442/desktop-wallpaper-pin-page-dark-profile.jpg?ssl=1) 
+<p align="left">
+  <img src="https://i3.wp.com/e1.pxfuel.com/desktop-wallpaper/451/442/desktop-wallpaper-pin-page-dark-profile.jpg?ssl=1" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+</p>
 
-Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhubaneswar**. I have a strong passion for web development and love working with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js). 
+Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhubaneswar**. I have a strong passion for web development and love working with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js).
 
 ### 🚀 Projects
 - **News Listing Web App**: A project featuring search and date filtering functionalities, built with Angular and Node.js.
@@ -18,11 +20,10 @@ Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhub
 - **Others**: RESTful API development, Git, JWT Authentication
 
 ### 💻 What I'm Currently Working On
-I'm currently focusing on enhancing my skills in full-stack development with projects that require dynamic and scalable solutions. 
+I'm currently focusing on enhancing my skills in full-stack development with projects that require dynamic and scalable solutions.
 
 ### 📫 How to Reach Me
 - **Email**: [debaduttamishra.dev@gmail.com](mailto:debaduttamishra.dev@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 
 Feel free to check out my repositories and contribute if you're interested!
-
