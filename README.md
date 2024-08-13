@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Debadutta Mishra!
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhubaneswar**. I have a strong passion for web development and love working with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js).
   </div>
-  <div style="flex: 0 0 auto;">
+  <div style="margin-left: 20px;">
     <img src="https://i3.wp.com/e1.pxfuel.com/desktop-wallpaper/451/442/desktop-wallpaper-pin-page-dark-profile.jpg?ssl=1" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
   </div>
 </div>
