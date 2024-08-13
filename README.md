@@ -1,10 +1,13 @@
 # 👋 Hello, I'm Debadutta Mishra!
 
-<p align="right">
-  <img src="https://i3.wp.com/e1.pxfuel.com/desktop-wallpaper/451/442/desktop-wallpaper-pin-page-dark-profile.jpg?ssl=1" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
-</p>
-
-Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhubaneswar**. I have a strong passion for web development and love working with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js).
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhubaneswar**. I have a strong passion for web development and love working with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js).
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="https://i3.wp.com/e1.pxfuel.com/desktop-wallpaper/451/442/desktop-wallpaper-pin-page-dark-profile.jpg?ssl=1" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+  </div>
+</div>
 
 ### 🚀 Projects
 - **News Listing Web App**: A project featuring search and date filtering functionalities, built with Angular and Node.js.
