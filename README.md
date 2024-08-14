@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a **Software Development Intern at NTSPL, Bhubaneswar**. I have a strong passion for web development and love working with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js).
 
 ### 🚀 Projects
-- **News Listing Web App**: A project featuring search and date filtering functionalities, built with Angular and Node.js.
 - **Online Food Ordering System**: A complete food ordering platform developed using the MEAN Stack.
 - **Loan Management System**: A robust system for managing loans efficiently.
 - **Meeting Website**: A full-featured meeting website built with the MEAN Stack.
